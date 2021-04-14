@@ -1,6 +1,6 @@
 // license that can be found in the LICENSE file.
 
-// backend-errors is a package developed and used by alexandrio.
+// backend-errors is a package developed and used by cook4U.
 // It is made so that every micro service can use the same errors methods.
 //
 package berrors
